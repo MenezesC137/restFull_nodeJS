@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/MenezesC137/restFull_nodeJs#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "consign": "^0.1.6",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nedb": "^1.8.0"
   }
 }
